@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsrishusingh&label=Profile%20views&color=0e75b6&style=flat" alt="rsrishusingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsrishusingh" alt="rsrishusingh" /></a> </p>
-
 - 🌱 I’m currently learning **DSA and React**
 
 - 🤝 I’m currently a 2nd year student at [Delhi Technological University (Formerly Delhi College of Engineering)](https://dtu.ac.in/)
