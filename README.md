@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsrishusingh&label=Profile%20views&color=0e75b6&style=flat" alt="rsrishusingh" /> </p>
 
-- 🌱 I’m currently learning **DSA and React**
+- 🌱 I’m currently learning **DSA and ML**
 
 - 🤝 I’m currently a 2nd year student at [Delhi Technological University (Formerly Delhi College of Engineering)](https://dtu.ac.in/)
 
