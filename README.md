@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA and ML**
 
-- 🤝 I’m currently a 2nd year student at [Delhi Technological University (Formerly Delhi College of Engineering)](https://dtu.ac.in/)
+- 🤝 I’m currently a 3rd year student at [Delhi Technological University (Formerly Delhi College of Engineering)](https://dtu.ac.in/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rsRishuSingh](https://github.com/rsRishuSingh)
 
