@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsrishusingh&show_icons=true&locale=en" alt="rsrishusingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsrishusingh&" alt="rsrishusingh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsrishusingh&" alt="rsrishusingh" /></p> correct the readme
