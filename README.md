@@ -30,10 +30,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 I’m currently a 3rd-year B.Tech CSE student at **Delhi Technological University (DTU)**.
-- 🔭 I’m currently working on **Graph RAG pipelines and Agentic AI architectures**.
+- 🔭 I’m currently working on **AI, ML, DSA and so on...**
 - 💼 Previously worked as a **Data & AI Intern at Indium Software** and a **Tech Associate Intern at Saajha**.
 - 🏆 **Achievements:** Ranked in the **Top 35 out of 10,000+ teams** at the Bajaj HackRx 6.0 Gen AI Hackathon.
-- ⚡ **Competitive Programming:** Solved 400+ problems (LeetCode: 1750+, Codeforces: 1300+).
+- ⚡ **Competitive Programming:** Solved 500+ problems (LeetCode: 1750+).
 - 💬 Ask me about **Data Structures & Algorithms, Full Stack Web Development, and Applied AI/ML**.
 
 <br/>
