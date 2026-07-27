@@ -85,10 +85,10 @@
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=rsrishusingh&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   
-  <img src="https://streak-stats.demolab.com/?user=rsrishusingh&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  
-  <br/>
-  <br/>
   
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=rsrishusingh&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
+  <br/>
+  <br/>
+  
+  <img src="https://streak-stats.demolab.com/?user=rsrishusingh&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
