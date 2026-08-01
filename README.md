@@ -29,7 +29,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m currently a 3rd-year B.Tech CSE student at **Delhi Technological University (DTU)**.
+- 🎓 I’m currently a 4th-year B.Tech CSE student at **Delhi Technological University (DTU)**.
 - 🔭 I’m currently working on **AI, ML, DSA and so on...**
 - 💼 Previously worked as a **Data & AI Intern at Indium Software** and a **Tech Associate Intern at Saajha**.
 - 🏆 **Achievements:** Ranked in the **Top 35 out of 10,000+ teams** at the Bajaj HackRx 6.0 Gen AI Hackathon.
